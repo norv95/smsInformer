@@ -1,0 +1,3 @@
+smsInformer
+===========
+Simple DB smsInformer
